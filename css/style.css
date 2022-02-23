@@ -487,12 +487,7 @@ body {
   background: #415167;
 }
 
-.btn-close {
-  font-size: 28px;
-  display: block;
-  float: right;
-  color: #F2F2F2;
-}
+
 
 .content {
   padding: 10%;
@@ -654,3 +649,11 @@ body {
     height: 100%;
 }
 /*============VIDEO START===========*/
+.close{ 
+    font-size: 50px;
+    display: block;
+    float: left;
+    color: #F2F2F2; 
+    
+ 
+}
